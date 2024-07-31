@@ -33,7 +33,7 @@
             overflow: hidden;
             margin-top: 20px; /* Adjust spacing if necessary */
         }
-
+/* Adjust spacing if necessary */
         .calculator-display {
             background-color: #222;
             color: #fff;
